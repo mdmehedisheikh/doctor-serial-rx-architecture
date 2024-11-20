@@ -14,4 +14,4 @@ Doctor Serial Rx (Prescription Chamber Management) streamlines private doctor ch
 2. **Zero-Duplicate Phone Queue:** Automatically links returning patients by phone number while allowing family branch profiles.
 3. **Calibrated Layout Print Engine:** Pixel-perfect support for both 80mm thermal receipts (serial tokens) and standard A4/A5 prescription pads.
 
-<!-- Milestone 3/13: feat(medicine): 28,000+ Bangladesh medicine database pipeline and prefix search indexer (2024-09) -->
+<!-- Milestone 4/13: feat(samples): implement medicine search indexer and zero-duplicate queue algorithms (2024-11) -->
