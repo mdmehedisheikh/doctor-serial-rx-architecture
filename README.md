@@ -16,5 +16,5 @@ Doctor Serial Rx (Prescription Chamber Management) streamlines private doctor ch
 
 ---
 
-
-<!-- Milestone 12/13: audit(security): patient health data privacy, consultation logs, and access security (2026-08) -->
+## 🔒 Code Sample Preview
+- `samples/medicine-indexing-and-queue.ts`: Curated snippet showing medicine search indexer and token queue manager.
